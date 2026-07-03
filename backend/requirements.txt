@@ -1,0 +1,10 @@
+flask
+google-generativeai
+langchain
+chromadb
+sentence-transformers
+PyPDF2
+python-docx
+python-dotenv
+supabase
+werkzeug
